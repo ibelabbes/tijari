@@ -1,0 +1,572 @@
+.a1 {
+	padding:0px;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 13px;
+	height: 15px;
+	vertical-align: middle;
+	TEXT-ALIGN: center;
+	color: #000040;
+	font-weight: bold;
+}
+.a1:hover{
+	color:#990000;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 13px;
+	height: 15px;
+	vertical-align: middle;
+	TEXT-ALIGN: center;
+	font-weight: bold;
+}
+
+.a2 {
+	padding:1px;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 12px;
+	vertical-align: top;
+	TEXT-ALIGN: center;
+	color: Black;
+	font-weight: bold;
+}
+.a2:hover{
+	color:#990000;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 12px;
+	vertical-align: top;
+	TEXT-ALIGN: center;
+	font-weight: bold;
+}
+
+.a3 {
+	padding:2px;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 14px;
+	vertical-align: top;
+	TEXT-ALIGN: center;
+	color:#004529;
+	font-weight: bold;
+}
+.a3:hover{
+	color:#990000;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 14px;
+	vertical-align: top;
+	TEXT-ALIGN: center;
+	font-weight: bold;
+}
+
+pre { 
+ 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13;
+	color: #000000;
+	TEXT-ALIGN: left;
+	vertical-align: top;
+} 
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14;
+	font-weight: bold;
+	color: #000000;
+}
+
+.utility{text-align:right;padding:3px;font:11px verdana;background-color:#990000;vertical-align:middle;color:#CAE3B9;}
+.utility a:link,.utility a:visited,.utility a:hover{color:#FFFFFF;text-decoration:none;}
+
+.utilityCenter{text-align:center;padding:3px;height:25px;font:10px verdana;background-color:#990000;vertical-align:middle;color:#CAE3B9;}
+.utilityCenter a:link,.utilityCenter a:visited,.utilityCenter a:hover{color:#FFFFFF;text-decoration:none;}
+
+.utilityLeft{text-align:left;padding:3px;height:20px;font:10px verdana;background-color:#990000;vertical-align: middle;color:#CAE3B9;}
+.utilityLeft a:link,.utilityLeft a:visited,.utilityLeft a:hover{color:#FFFFFF;text-decoration:none;}
+
+.redTextLink{padding:3px;font:12px verdana;}
+.redTextLink a:link,.redTextLink a:visited,.redTextLink a:hover{color:#990000;text-decoration:none;vertical-align: middle;}
+
+.textRed {
+	font-size: 12px;
+	font-weight: bold;
+	color: #990000;
+}
+
+.text {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.textGreen {
+	font-size: 14px;
+	font-weight: bold;
+	color: #00FFFF;
+}
+.dateFormat {
+	font: 12px arial, helvetica, sans-serif;
+	width: 128px;
+}
+.linkTxt{padding:3px;font:12px Arial;vertical-align: middle;}
+.linkTxt a:link,.linkTxt a:visited,.linkTxt a:hover{color:#0000FF;text-decoration:none;}
+
+.redTxt{padding:3px;font-family: 'Times New Roman';font:12px verdana;vertical-align: middle;color:#990000;}
+.redTxt a:visited,.redTxt a:hover{color:#990000;text-decoration:none;}
+
+.redstar {
+	color: #CC0000;
+	font-size: 16px;
+}
+
+.greyTxtField {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	vertical-align: middle;
+	color: Grey;
+}
+
+.txtField {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	vertical-align: middle;
+	color: black;
+}
+
+.txt {
+	font-family: Arial;
+	font-size: 11px;
+	vertical-align: middle;
+	color: black;
+}
+
+.mediumTxt {
+	font-family: Arial;
+	font-size: 12px;
+	vertical-align: middle;
+	color: black;
+}
+
+.smallTxt {
+	font-family: Arial;
+	font-size: 9px;
+	vertical-align: middle;
+	color: black;
+}
+
+.menuTxt {
+	font-family: Times New Roman;
+	font-size: 12px;
+	vertical-align: middle;
+	TEXT-ALIGN: center;
+	color: black;
+	font-weight: bold;
+}
+.label {
+	overflow: hidden;
+	font-family: 'Times New Roman';
+	font-size: 12px;
+	vertical-align: top;
+	color: black;
+}
+
+.txt0 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 13px;
+	vertical-align: bottom;
+	color: black;
+	text-align:left;
+	padding:2px
+}
+
+.div1 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	vertical-align: bottom;
+	color: black;
+	height:100px;
+	padding:5px;
+	text-align:center;
+	
+}
+
+.div0 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	vertical-align: middle;
+	color: black;
+	height:100px;
+	padding:5px;
+	text-align:center;
+}
+
+.biz1 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	vertical-align: bottom;
+	color: black;
+	height:80px;
+	padding:10px;
+	text-align:center;
+	
+}
+
+.biz0 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	vertical-align: middle;
+	color: black;
+	height:80px;
+	padding:10px;
+	text-align:center;
+}
+.adBorder {
+	border-collapse: collapse;
+	border: 5px #FE4848 solid;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10;
+	color: #000000;
+	TEXT-ALIGN: left;
+	vertical-align: top;
+}
+.tableBorder {
+	border-collapse: collapse;
+	border: 1px #990000 solid;
+}
+.columnBorder {
+	border-collapse: collapse;
+	border: 1px #4E3101 solid;
+}
+
+.frameBorder {
+	border-collapse: collapse;
+	border: 1px #A6A6FF solid;
+}
+.form {
+	border-collapse: collapse;
+	border: 1px #4E3101 solid;
+	background-color:#FFEFCE;
+}
+
+.imageBorder {
+	border-collapse: collapse;
+	border: 1px #7D87F9 solid;
+}
+
+.txt1 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 13px;
+	vertical-align: middle;
+	color: black;
+	background-color:#E1E1E1;
+	text-align:left;
+	padding:2px
+}
+
+.txtCenter {
+	overflow: hidden;
+	font-family: Palatino Linotype;
+	font-size: 14px;
+	vertical-align: middle;
+	text-align:center;
+	color: black;
+}
+
+.whiteTxtCenter {
+	overflow: hidden;
+	font-family: Palatino Linotype;
+	font-size: 12px;
+	vertical-align: middle;
+	text-align:center;
+	color: white;
+}
+
+.titleCenter {
+	overflow: hidden;
+	font-family: Palatino Linotype;
+	font-size: 17px;
+	vertical-align: middle;
+	text-align:center;
+	color: white;
+}
+
+.searchTitle {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 11px;
+	vertical-align: middle;
+	text-align: right;
+	color:#990000
+}
+
+.searchTxt {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 12px;
+	vertical-align: middle;
+	color: black;
+}
+
+.pagetitle {
+	TEXT-ALIGN: center;
+	font-family: Times New Roman;
+	font-size: 32px;
+	color: #990000;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+td.maintextbold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	color: #000000;
+	TEXT-ALIGN: center;
+}
+
+.boldText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14;
+	font-weight: bold;
+	color: #000000;
+	TEXT-ALIGN: left;
+}
+td.titleTextBold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16;
+	font-weight: bold;
+	color: #000000;
+	TEXT-ALIGN: left;
+	vertical-align: top;
+}
+
+td.smalltext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10;
+	color: #000000;
+	TEXT-ALIGN: left;
+	vertical-align: top;
+}
+
+.adtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9;
+	color: white;
+	TEXT-ALIGN: center;
+	vertical-align: middle;
+	font-weight: bold;
+	border-collapse: collapse;
+	border: 1px #000000 solid;
+	background-color:#D28502;
+	padding:3px;
+}
+.adtext a:link,.adtext a:visited,.adtext a:hover{color:#FFFFFF;text-decoration:none;font-size: 10; font-family: Arial, Helvetica, sans-serif;}
+
+td.normaltext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13;
+	color: #000000;
+	TEXT-ALIGN: left;
+	vertical-align: top;
+}
+.redTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14;
+	color: #990000;;
+	TEXT-ALIGN: center;
+	vertical-align: top;
+	font-weight: bold;
+}
+.blueTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16;
+	color: #000055;
+	TEXT-ALIGN: left;
+	vertical-align: top;
+	font-weight: bold;
+}
+.greyBackground{
+ 	text-decoration:none;
+ 	overflow: hidden;
+	font-size : 12px;
+	font-family : Arial;
+	background-color: #B4B4B4;
+}
+
+td.alt1 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 12px;
+	vertical-align: bottom;
+	color: black;
+	text-align:left;
+	background-color: #E1E1E1;
+	
+}
+
+td.alt0 {
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 12px;
+	vertical-align: middle;
+	color: black;
+	text-align:left;
+}
+
+.link{padding:0px;vertical-align: middle;}
+.link a:link,.link a:visited,.link a:hover{text-decoration:none;}
+
+column.one2
+{
+width:50%;
+}
+.column.one3{width:33.3%;}
+.column.one4{width:25%;}
+.column.one5{width:20%;}
+.column.one6{width:16.6%;}
+#scroll10 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none; 
+	height:130px;
+	font-size: 14px;
+	overflow: hidden;
+	border: 0px solid #ccc;
+}
+#scroll10 ul li {
+	 line-height: 20px;
+	 border: 1px solid #D4D4D4
+}
+#demo4 {
+	padding: 1px 1px;
+	border: 0px solid #ccc;
+	width: 600px;
+	height: 20px;	
+}
+#demo4 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 600px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	font-size:0;
+}
+#demo4 ul li {
+	display: inline;
+	margin-right: -1px;
+	*margin-right: -2px;
+}
+#scroll11 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none; 
+	height:130px;
+	font-size: 14px;
+	overflow: hidden;
+	border: 0px solid #ccc;
+}
+
+#scroll11 ul li {
+	 line-height: 20px;
+	 border: 1px solid #D4D4D4
+}
+#scroll4 {
+	padding: 5px 5px;
+	border: 0px solid #ccc;
+	width: 690px;
+}
+#scroll4 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 690px;
+	white-space: nowrap;
+	overflow: hidden;
+}
+#scroll4 ul li {
+	display: inline;
+	margin-right: -1px;
+	*margin-right: -2px;	
+}
+#scroll4 ul li img {
+	border: 0px solid #ccc;	
+	vertical-align: middle;
+}
+
+#scroll5 {
+	padding: 5px 5px;
+	border: 0px solid #ccc;
+	width: 690px;
+}
+#scroll5 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 690px;
+	white-space: nowrap;
+	overflow: hidden;
+}
+#scroll5 ul li {
+	display: inline;
+	margin-right: -1px;
+	*margin-right: -2px;	
+}
+#scroll5 ul li img {
+	border: 0px solid #ccc;	
+	vertical-align: middle;
+}
+.smallAdtext {
+	font-family: Times New Roman, Arial, Helvetica, sans-serif;
+	font-size: 10;
+	color: #000000;
+	TEXT-ALIGN: left;
+	vertical-align: middle;
+	border-collapse: collapse;
+	padding:3px;
+}
+
+.columnBorderClass {
+	border-collapse: collapse;
+	border: 1px #000000 solid;
+	height:25px;
+	font-family: Times New Roman, Arial, Helvetica, sans-serif;
+	font-size: 11;
+	color: #000000;
+	vertical-align: middle;
+}
+.headerBorder {
+	border-collapse: collapse;
+	border: 1px #000000 solid;
+	font-family: Times New Roman, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	color: #000000;
+	height:30px;
+	vertical-align: middle;
+	font-weight: bold;
+	background-color: #C4C4FF;
+}
+.extLabel{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:11px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+.extBoldLabel{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:11px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
