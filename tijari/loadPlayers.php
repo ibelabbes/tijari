@@ -3,7 +3,8 @@
 
     $rs = getAllPlayers();
 
-    while($obj = mysql_fetch_object($rs))
+    //while($obj = mysql_fetch_object($rs))
+    while($obj = mysqli_fetch_object($rs))
     {
             $arr[] = $obj;
     }
