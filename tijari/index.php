@@ -100,7 +100,8 @@ function viewTourneySummary(id){
     $rs_tourneys = getTourneys();
 
     $tourney_info = null;
-    while($obj1 = mysql_fetch_object($rs_tourneys))
+    //while($obj1 = mysql_fetch_object($rs_tourneys))
+    while($obj1 = mysqli_fetch_object($rs_tourneys))
     {
         $tourney_info[] = $obj1;
     }
@@ -108,7 +109,8 @@ function viewTourneySummary(id){
     $rs_players = getRankings();
 
     $player_info = null;
-    while($obj2 = mysql_fetch_object($rs_players))
+    //while($obj2 = mysql_fetch_object($rs_players))
+    while($obj2 = mysqli_fetch_object($rs_players))
     {
         $player_info[] = $obj2;
     }
