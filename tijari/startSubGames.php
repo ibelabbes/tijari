@@ -27,7 +27,8 @@ if (isset($_SESSION['_pageName'])) {
             $curr_tourneyid = $_SESSION['_currtourneyid'];
             $rs_tourneys = getTourneyByInfoID($curr_tourneyid);
 
-            while($obj1 = mysql_fetch_object($rs_tourneys))
+            //while($obj1 = mysql_fetch_object($rs_tourneys))
+            while($obj1 = mysqli_fetch_object($rs_tourneys))
             {
                 $tourneys_info[] = $obj1;
             }
@@ -55,7 +56,8 @@ if (isset($_SESSION['_pageName'])) {
             $curr_gameNumber = getGamesCountByTourney($curr_tourneyid);
             $rs_gameinfo = getGameInfo($curr_tourneyid, $curr_gameNumber);
 
-            while($obj2 = mysql_fetch_object($rs_gameinfo))
+            //while($obj2 = mysql_fetch_object($rs_gameinfo))
+            while($obj2 = mysqli_fetch_object($rs_gameinfo))
             {
                 $game_info[] = $obj2;
             }
@@ -74,7 +76,8 @@ if (isset($_SESSION['_pageName'])) {
 
             $rs_tourney = getTourneyByInfoID($tourneyid);
 
-            while($obj1 = mysql_fetch_object($rs_tourney))
+            //while($obj1 = mysql_fetch_object($rs_tourney))
+            while($obj1 = mysqli_fetch_object($rs_tourney))
             {
                 $tourney_info[] = $obj1;
             }
@@ -87,7 +90,8 @@ if (isset($_SESSION['_pageName'])) {
 
                 $rs_gameinfo = getGameInfo($tourneyid, $curr_gameNumber);
 
-                while($obj2 = mysql_fetch_object($rs_gameinfo))
+                //while($obj2 = mysql_fetch_object($rs_gameinfo))
+                while($obj2 = mysqli_fetch_object($rs_gameinfo))
                 {
                     $game_info[] = $obj2;
                 }
@@ -99,7 +103,8 @@ if (isset($_SESSION['_pageName'])) {
 
                 $rs_subgameinfo  = getTourneySummaryByGameID($tourneyid, $curr_gameNumber);
 
-                while($obj2 = mysql_fetch_object($rs_subgameinfo))
+                //while($obj2 = mysql_fetch_object($rs_subgameinfo))
+                while($obj2 = mysqli_fetch_object($rs_subgameinfo))
                 {
                     $subgame_info[] = $obj2;
                 }
@@ -116,7 +121,8 @@ if (isset($_SESSION['_pageName'])) {
             $curr_tourneyid = $_SESSION['_currtourneyid'];
             $rs_tourneys = getTourneyByInfoID($curr_tourneyid);
 
-            while($obj1 = mysql_fetch_object($rs_tourneys))
+            //while($obj1 = mysql_fetch_object($rs_tourneys))
+            while($obj1 = mysqli_fetch_object($rs_tourneys))
             {
                 $tourneys_info[] = $obj1;
             }
@@ -126,7 +132,8 @@ if (isset($_SESSION['_pageName'])) {
             $curr_gameNumber = getGamesCountByTourney($curr_tourneyid);
             $rs_gameinfo     = getGameInfo($curr_tourneyid, $curr_gameNumber);
 
-            while($obj2 = mysql_fetch_object($rs_gameinfo))
+            //while($obj2 = mysql_fetch_object($rs_gameinfo))
+            while($obj2 = mysqli_fetch_object($rs_gameinfo))
             {
                 $game_info[] = $obj2;
             }
@@ -163,7 +170,8 @@ if (isset($_SESSION['_pageName'])) {
 
             $rs_subgameinfo = getTourneySummaryByGameID($curr_tourneyid, $curr_gameNumber);
 
-            while($obj3 = mysql_fetch_object($rs_subgameinfo))
+            //while($obj3 = mysql_fetch_object($rs_subgameinfo))
+            while($obj3 = mysqli_fetch_object($rs_subgameinfo))
             {
                 $subgame_info[] = $obj3;
             }
