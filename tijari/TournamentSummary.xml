@@ -1,0 +1,141 @@
+<Tourney xmlns="http://www.example.org/Tijari">
+  <TNumber>4</TNumber>
+  <THost>Hicham</THost>
+  <TLocation>Romoeville</TLocation>
+  <TDate>30th April 2011</TDate>
+  <TTime>1:00 PM</TTime>
+  <Game>
+    <GameNumber>1</GameNumber>
+    <Team1>
+      <Player1>Ali</Player1>
+      <Player2>Imad</Player2>
+    </Team1>
+    <Team1TotalScore>680</Team1TotalScore>
+    <Team2>
+      <Player1>Wadih</Player1>
+      <Player2>Driss</Player2>
+    </Team2>
+    <Team2TotalScore>120</Team2TotalScore>
+    <SubGame>
+      <SubGameNumber>1</SubGameNumber>
+      <Team1Score>80</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>080 - 080</Team1ScoreResult>
+      <Team2ScoreResult>000 - 000</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>2</SubGameNumber>
+      <Team1Score>0</Team1Score>
+      <Team2Score>120</Team2Score>
+      <Team1ScoreResult>000 - 080</Team1ScoreResult>
+      <Team2ScoreResult>120 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>3</SubGameNumber>
+      <Team1Score>230</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>230 - 310</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>4</SubGameNumber>
+      <Team1Score>120</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>120 - 430</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>5</SubGameNumber>
+      <Team1Score>90</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>090 - 520</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>6</SubGameNumber>
+      <Team1Score>80</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>080 - 600</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>7</SubGameNumber>
+      <Team1Score>80</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>080 - 680</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>8</SubGameNumber>
+      <Team1ScoreResult>Winners</Team1ScoreResult>
+      <Team2ScoreResult>-</Team2ScoreResult>
+    </SubGame>
+  </Game>
+  <Game>
+    <GameNumber>2</GameNumber>
+    <Team1>
+      <Player1>Driss</Player1>
+      <Player2>Mounir</Player2>
+    </Team1>
+    <Team1TotalScore>610</Team1TotalScore>
+    <Team2>
+      <Player1>Imad</Player1>
+      <Player2>Ali</Player2>
+    </Team2>
+    <Team2TotalScore>240</Team2TotalScore>
+    <SubGame>
+      <SubGameNumber>1</SubGameNumber>
+      <Team1Score>0</Team1Score>
+      <Team2Score>120</Team2Score>
+      <Team1ScoreResult>000 - 000</Team1ScoreResult>
+      <Team2ScoreResult>120 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>2</SubGameNumber>
+      <Team1Score>230</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>230 - 230</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>3</SubGameNumber>
+      <Team1Score>120</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>120 - 350</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>4</SubGameNumber>
+      <Team1Score>80</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>080 - 430</Team1ScoreResult>
+      <Team2ScoreResult>000 - 120</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>5</SubGameNumber>
+      <Team1Score>0</Team1Score>
+      <Team2Score>120</Team2Score>
+      <Team1ScoreResult>000 - 430</Team1ScoreResult>
+      <Team2ScoreResult>120 - 240</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>6</SubGameNumber>
+      <Team1Score>100</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>100 - 530</Team1ScoreResult>
+      <Team2ScoreResult>000 - 240</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>7</SubGameNumber>
+      <Team1Score>80</Team1Score>
+      <Team2Score>0</Team2Score>
+      <Team1ScoreResult>080 - 610</Team1ScoreResult>
+      <Team2ScoreResult>000 - 240</Team2ScoreResult>
+    </SubGame>
+    <SubGame>
+      <SubGameNumber>8</SubGameNumber>
+      <Team1ScoreResult>Winners</Team1ScoreResult>
+      <Team2ScoreResult>-</Team2ScoreResult>
+    </SubGame>
+  </Game>
+</Tourney>

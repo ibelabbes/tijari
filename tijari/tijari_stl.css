@@ -1,0 +1,193 @@
+.href {
+	padding:0px;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 15px;
+	height: 15px;
+	vertical-align: middle;
+	TEXT-ALIGN: center;
+	color: white;
+	font-weight: bold;
+}
+.href:hover{
+	color:#00FFFF;
+	text-decoration:none;
+	font-family: Times New Roman;
+	font-size: 15px;
+	height: 15px;
+	vertical-align: middle;
+	TEXT-ALIGN: center;
+	font-weight: bold;
+}
+
+.extWhiteLabel{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:13px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+.extSmallWhiteLabel{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:9px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+.extWhiteBoldLabel{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:13px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	color:white;
+}
+.extWhiteBoldLabel2{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:15px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	color:white;
+}
+.extWhiteBoldLabel3{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:16px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+.extRedBoldLabel{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:13px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	color:red;
+}
+.whitePageTitle{
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:26px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+	TEXT-ALIGN: center;
+}
+.extWhiteTitle{
+	font-family:germany;
+	font-size:33px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+.extWhiteTitle2{
+	font-family:Edwardian Script ITC, germany;
+	font-size:33px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+
+.extWhiteTitle4{
+	font-family:Times New Roman;
+	font-size:25px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+.extWhiteTitle3{
+	font-family: Algerian, Germany;
+	font-size:33px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	color:white;
+}
+.extWhite{
+	font-family: Edwardian Script ITC;
+	font-size:35px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+.extWhite2{
+	font-family: Algerian;
+	font-size:17px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+.extWhite3{
+	font-family:arial,tahoma,helvetica,sans-serif;	
+	font-size:11px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:white;
+}
+
+
+.hoverBorder {
+	border-collapse: collapse;
+	border: 2px #FE4848 solid;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10;
+	color: #000000;
+	TEXT-ALIGN: left;
+	vertical-align: top;
+}
+
+
+.extRedTitle{
+	font-family:germany;
+	font-size:43px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:Bold;
+	color:red;
+}
+.extRed{
+	font-family:Times New Roman;
+	font-size:21px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	color:red;
+}
+.fancyButton{
+	background-color: #FF99FF; 
+	border-top: 2px solid #5f6c4d; 
+	border-right: 2px solid #000000; 
+	border-bottom: 2px solid #000000; 
+	border-left: 2px solid #5f6c4d;
+	height: 28px;
+	font-weight: bold;
+	font-family: Tahoma;
+	vertical-align: middle;
+	color: 	#202020;
+	cursor: pointer;
+}
