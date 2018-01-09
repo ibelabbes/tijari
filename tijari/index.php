@@ -124,7 +124,7 @@ function viewTourneySummary(id){
     <tbody>
         <tr>
             <td align="center" valign="middle"><img src="images/carta.png" border="0"></td>
-            <td align="center" valign="middle"><span class="extWhiteTitle3">2017 Tijari Championship</span> </td>
+            <td align="center" valign="middle"><span class="extWhiteTitle3">2018 Tijari Championship</span> </td>
             <td align="center" valign="middle"><img src="images/carta.png"></td>
         </tr>
         <tr>
