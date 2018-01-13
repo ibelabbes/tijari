@@ -13,7 +13,8 @@
         //$dbname="mufts";
 
         //production
-        $hostname="10.131.81.225";
+        //$hostname="10.131.81.225";
+	$hostname="mysql-tijari.1d35.starter-us-east-1.openshiftapps.com";
         $username="adminrTnXRyu";
         $password="NZYW89EZgNdl";
         $dbname="mufts";
