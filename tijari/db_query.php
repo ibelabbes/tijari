@@ -13,7 +13,7 @@
         //$dbname="mufts";
 
         //production
-        $hostname="10.129.87.80";
+        $hostname="10.131.81.225";
         $username="adminrTnXRyu";
         $password="NZYW89EZgNdl";
         $dbname="mufts";
