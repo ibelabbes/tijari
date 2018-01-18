@@ -251,7 +251,8 @@ function viewTourneySummary(id){
 <a href="2013/2013results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2013 *</a>
 <a href="2014/2014results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2014 *</a>
 <a href="2015/2015results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2015 *</a>
-<a href="2016/2016results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2016 **</a>
+<a href="2016/2016results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2016 *</a>
+<a href="2017/2017results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2017 **</a>
 </b></td>
             <td align="center" valign="middle">
                 <img src="images/carta.png" border="0">
@@ -264,7 +265,7 @@ function viewTourneySummary(id){
         		<a href="images/driss.jpg" class="lb-flower" title="Driss Cherqi (2015 Champion)."><img src="images/tijari_players.jpg" alt="Meet theTijari players" width="347" height="35"></a>
         </div>
      	<div class="thumbnailHidden">
-        		<a href="images/imad.jpg" class="lb-flower" title="Imad Belabbes (2011 & 2013 Champion)."><img src="images/imad.jpg" ></a>
+        		<a href="images/imad.jpg" class="lb-flower" title="Imad Belabbes (2011, 2013 & 2017 Champion)."><img src="images/imad.jpg" ></a>
         </div>
      	<div class="thumbnailHidden">
         		<a href="images/wadih.jpg" class="lb-flower" title="Wadih Bargach (2012 Champion)."><img src="images/wadih.jpg" ></a>
