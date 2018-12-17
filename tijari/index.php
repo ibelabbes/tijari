@@ -262,11 +262,11 @@ function viewTourneySummary(id){
 <tr>
 <td></td>
 <td align="center" valign="middle">
-     	<div class="thumbnail" title="Meet theTijari players">
+     	<div class="thumbnail" title="Meet the Tijari players">
         		<a href="images/driss.jpg" class="lb-flower" title="Driss Cherqi (2015 Champion)."><img src="images/tijari_players.jpg" alt="Meet theTijari players" width="347" height="35"></a>
         </div>
      	<div class="thumbnailHidden">
-        		<a href="images/imad.jpg" class="lb-flower" title="Imad Belabbes (2011, 2013 & 2017 Champion)."><img src="images/imad.jpg" ></a>
+        		<a href="images/imad.jpg" class="lb-flower" title="Imad Belabbes (2011, 2013, 2017 & 2018 Champion)."><img src="images/imad.jpg" ></a>
         </div>
      	<div class="thumbnailHidden">
         		<a href="images/wadih.jpg" class="lb-flower" title="Wadih Bargach (2012 Champion)."><img src="images/wadih.jpg" ></a>
