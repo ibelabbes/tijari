@@ -124,7 +124,7 @@ function viewTourneySummary(id){
     <tbody>
         <tr>
             <td align="center" valign="middle"><img src="images/carta.png" border="0"></td>
-            <td align="center" valign="middle"><span class="extWhiteTitle3">2018 Tijari Championship</span> </td>
+            <td align="center" valign="middle"><span class="extWhiteTitle3">2019 Tijari Championship</span> </td>
             <td align="center" valign="middle"><img src="images/carta.png"></td>
         </tr>
         <tr>
@@ -252,7 +252,8 @@ function viewTourneySummary(id){
 <a href="2014/2014results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2014 *</a>
 <a href="2015/2015results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2015 *</a>
 <a href="2016/2016results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2016 *</a>
-<a href="2017/2017results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2017 **</a>
+<a href="2017/2017results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2017 *</a>      
+<a href="2018/2018results.htm" class="extWhiteBoldLabel22 hist" style="text-decoration: none;"> * 2018 **</a>
 </b></td>
             <td align="center" valign="middle">
                 <img src="images/carta.png" border="0">
